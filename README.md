@@ -1,4 +1,4 @@
-# Health_Prediction-Model
+# Health_Prediction_Model
 Can Predict Multiple Disease 
 
 For now supports heart attack & Diabetes Prediction
