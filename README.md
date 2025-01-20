@@ -3,7 +3,7 @@ Can Predict multiple Disease
 # Health Prediction System
 
  Overview
-This project aims to develop a health prediction system that utilizes machine learning algorithms to predict the likelihood of health issues such as heart attacks and diabetes based on various health parameters. The data used for this project was collected through web scraping from several reputable government health data sources.
+This project aims to develop a health prediction system that utilizes machine learning algorithms to predict the likelihood of health issues such as heart attacks and diabetes based on various health parameters. The data used for this project was collected through web scraping and refering reports given in this websites from several reputable government health data sources.
 
  Data Collection
 The dataset for this project was gathered using web scraping techniques from the following government websites:
