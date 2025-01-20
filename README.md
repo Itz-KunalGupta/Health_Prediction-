@@ -1,5 +1,5 @@
 # Health_Prediction-
-Can Predict multiple Disease 
+Can Predict Multiple Disease 
 # Health Prediction System
 
  Overview
@@ -7,6 +7,8 @@ This project aims to develop a health prediction system that utilizes machine le
 
  Data Collection
 The dataset for this project was gathered using web scraping techniques from the following government websites:
+
+0. https://www.mendeley.com/search/?page=1&query=Heart%20attack%20prediction%20&sortBy=relevance
 
 1. NHM Health Statistics Information Portal: This portal provides various health indicators in India, which were essential for understanding the prevalence of diseases and health outcomes. The data includes statistics related to heart disease and diabetes. [Visit NHM Portal](https://nhm.gov.in)
 
