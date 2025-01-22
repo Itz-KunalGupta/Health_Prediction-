@@ -16,7 +16,7 @@ We used **two machine learning algorithms** to ensure robust predictions. The sy
 ### The Problem 🔍##
 - Cardiovascular diseases, particularly heart attacks, are a leading cause of death globally. The challenges include:
 
-Delayed Diagnosis: Individuals are often unaware of their risk until it's too late.
+- Delayed Diagnosis: Individuals are often unaware of their risk until it's too late.
 Lack of Preventive Measures: Many at-risk individuals fail to take preventive steps due to insufficient awareness.
 Complex Data Interpretation: Medical professionals often deal with large datasets that require significant time and expertise to analyze.
 Accessibility Issues: High-quality prediction systems are often unavailable in resource-constrained settings.
