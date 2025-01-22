@@ -13,6 +13,23 @@ We used **two machine learning algorithms** to ensure robust predictions. The sy
 
 ---
 
+### The Problem 🔍##
+- Cardiovascular diseases, particularly heart attacks, are a leading cause of death globally. The challenges include:
+
+Delayed Diagnosis: Individuals are often unaware of their risk until it's too late.
+Lack of Preventive Measures: Many at-risk individuals fail to take preventive steps due to insufficient awareness.
+Complex Data Interpretation: Medical professionals often deal with large datasets that require significant time and expertise to analyze.
+Accessibility Issues: High-quality prediction systems are often unavailable in resource-constrained settings.
+---
+### Our Solution 💡###
+- The Heart Attack Prediction System tackles these issues by:
+
+Offering a user-friendly interface to input key health metrics.
+Using a Decision Tree Classification Model to predict the probability of a heart attack with high accuracy.
+Providing quick and easy-to-understand results that empower users to make informed decisions.
+Assisting healthcare providers in identifying high-risk patients and prioritizing their care.
+
+---
 ### **Data Collection 📊**  
 
 The dataset was meticulously collected using **web scraping** from reputable government sources. Here's a summary of the sources we tapped into:  
