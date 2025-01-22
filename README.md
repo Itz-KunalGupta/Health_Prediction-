@@ -89,7 +89,9 @@ All development and testing were carried out in **Google Colab**, ensuring seaml
 - **Dual-Model Logic**: Combines predictions from two algorithms for accuracy and reliability.  
 - **Balanced Recall**: Ensures fairness across predictions, crucial for health-related insights.  
 - **Interactive UI**: Easy-to-use interface built on Streamlit.  
-- **Scalability**: Models can be retrained with new data, enhancing performance over time. 📈  
+- **Scalability**: Models can be retrained with new data, enhancing performance over time. 📈
+- **Users will get Health related suggestions to improve their Health **
+- **The users can Visualise their data which help them identity which health parameters needs improvements **
 
 ---
 
