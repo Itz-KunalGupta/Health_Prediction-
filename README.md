@@ -1,13 +1,12 @@
-# Health_Prediction_Model
+# Health_Prediction_Model  🩺🤖
 Can be made to  Predict Multiple Disease 
 
-Health Prediction System: README 🩺🤖
 
 Overview 🌟
 
-This project is a cutting-edge health prediction system leveraging machine learning to assess the likelihood of health issues like heart attacks and diabetes based on various health parameters. 💡
+This project is a cutting-edge health prediction system leveraging machine learning to assess the likelihood of health issues like heart attacks etc  based on various health parameters. 💡
 
-We used two machine learning algorithms to ensure robust predictions. The system showcases not only the likelihood of a condition but also provides insights when predictions differ, including confidence percentages. 🧠✨ With an accuracy of 83.7% and well-balanced recall, this project highlights the importance of precision in health analytics. 🏆
+We used two machine learning algorithms to ensure robust predictions. The system showcases not only the likelihood of a condition but also provides insights when predictions differ, including confidence percentages. 🧠✨ With an accuracy of 83.7% and well-balanced recall of 97% in one model & 87% in other model , this project highlights the importance of precision in health analytics. 🏆
 
 Data Collection 📊
 
