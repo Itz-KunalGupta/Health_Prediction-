@@ -1,12 +1,11 @@
 # Health_Prediction_Model  🩺🤖
 Can be made to  Predict Multiple Disease 
 
-
 Overview 🌟
 
-This project is a cutting-edge health prediction system leveraging machine learning to assess the likelihood of health issues like heart attacks etc  based on various health parameters. 💡
+This project is a cutting-edge health prediction system leveraging machine learning to assess the likelihood of health issues like heart attacks, etc., based on various health parameters. 💡
 
-We used two machine learning algorithms to ensure robust predictions. The system showcases not only the likelihood of a condition but also provides insights when predictions differ, including confidence percentages. 🧠✨ With an accuracy of 83.7% and well-balanced recall of 97% in one model & 87% in other model , this project highlights the importance of precision in health analytics. 🏆
+We used two machine learning algorithms to ensure robust predictions. The system showcases not only the likelihood of a condition but also provides insights when predictions differ, including confidence percentages. 🧪✨ With an accuracy of 83.7% and a well-balanced recall of 93% in one model & 87% in the other, this project highlights the importance of precision in health analytics. 🏆
 
 Data Collection 📊
 
@@ -16,7 +15,7 @@ Mendeley: Academic reports and research papers on health predictions. 📚
 
 NHM Health Statistics Information Portal: Key health indicators in India, focusing on disease prevalence and outcomes. 🌐
 
-Open Government Data Platform India: Comprehensive datasets from various government ministries. 🏛️
+Open Government Data Platform India: Comprehensive datasets from various government ministries. 🏰
 
 National Health Portal: Authenticated health information and disease risk factors. ✅
 
@@ -32,7 +31,7 @@ Requests library was used to fetch HTML content.
 
 BeautifulSoup parsed the HTML to extract tables and statistics. 🛠️
 
-Data was cleaned and formatted for analysis. 🧹
+Data was cleaned and formatted for analysis. 🩹
 
 Data Preprocessing 🧪
 
@@ -48,9 +47,9 @@ Model Building ⚙️
 
 We implemented two machine learning algorithms:
 
-Logistic Regression:
+Decision Tree:
 
-Simple and efficient for binary classification problems.
+Simple and interpretable for classification problems.
 
 Provided a baseline to evaluate the complexity of the problem. 📊
 
@@ -64,9 +63,9 @@ The logic was to use these models in parallel and:
 
 Display the average prediction when both agree. ✅
 
-Show percentage-based confidence when outputs differ. 📉📈
+Show percentage-based confidence when outputs differ. 🖋️🔼
 
-The models were saved as .pkl files for easy deployment. 🗂️
+The models were saved as .pkl files for easy deployment. 🔐
 
 User Interface 🚀
 
@@ -76,7 +75,7 @@ Input Form: Users input their health parameters via a simple form. 🖋️
 
 Prediction Display: Results are shown with clear probabilities and health insights. 📺
 
-Dark/Light Mode: Enhanced usability with theme support. 🌓
+Dark/Light Mode: Enhanced usability with theme support. 🌃
 
 Development Environment 🌍
 
@@ -112,7 +111,7 @@ Ensures reliability when models agree.
 
 Provides interpretability and confidence percentages when they differ.
 
-Combines the simplicity of logistic regression with the complexity-handling capability of random forests. 🏅
+Combines the simplicity of decision trees with the complexity-handling capability of random forests. 🏅
 
 Contributions 🤝
 
@@ -129,6 +128,10 @@ Conclusion 🏁
 This health prediction system is a testament to the power of machine learning in addressing real-world health challenges. By combining robust algorithms, thoughtful design, and detailed data analysis, we've created a solution that is not only technically sophisticated but also impactful. 🌟
 
 Let’s make health predictions smarter together! 🚀
+
+
+
+
 
 
 ---
