@@ -131,9 +131,6 @@ This health prediction system is a testament to the power of machine learning in
 Let’s make health predictions smarter together! 🚀
 
 
-
-Feel free to contribute to this project by providing suggestions or improvements!
-
 ---
 
 
