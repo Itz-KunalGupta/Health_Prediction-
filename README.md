@@ -146,8 +146,7 @@ Let’s make health predictions smarter together! 🚀
 
 ---
 
-Let me know if this meets your needs or if you'd like any other changes! 😊
----
+
 
 
 
